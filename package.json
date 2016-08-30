@@ -1,0 +1,22 @@
+{
+  "name": "muqsithnpmtest",
+  "version": "1.0.0",
+  "description": "Simple test to learn npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muqsith/muqsithnpmtest.git"
+  },
+  "keywords": [
+    "muqsith"
+  ],
+  "author": "muqsithirfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muqsith/muqsithnpmtest/issues"
+  },
+  "homepage": "https://github.com/muqsith/muqsithnpmtest#readme"
+}
