@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/muqsith/muqsithnpmtest/issues"
   },
-  "homepage": "https://github.com/muqsith/muqsithnpmtest#readme"
+  "homepage": "https://github.com/muqsith/muqsithnpmtest#readme",
+  "dependencies": {
+    "mocha": "^3.0.2"
+  }
 }
